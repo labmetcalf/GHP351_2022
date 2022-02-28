@@ -24,7 +24,7 @@ The data table has the following columns:
 3. `sex`: L = Lehilahy = Male (in Malagasy); V = Vehivavy = Female (in Malagasy)
 4. `age_cat`: Age group
 5. Date of clinical visit
-6. Results of malaria rapid diagnostic test (RDT) *see below*
+6. Results of malaria rapid diagnostic test (RDT) (see below)
 
 Malaria RDT results coding:
 
@@ -35,4 +35,3 @@ Malaria RDT results coding:
 110 = Infected with *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
 
 111 = Mixed species infection: Infected with *Plasmodium falciparum* AND *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
-
