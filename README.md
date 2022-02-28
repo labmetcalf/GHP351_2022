@@ -46,10 +46,5 @@ The data table has the following columns:
 
 Malaria RDT results coding:
 
-0 = negative
-
-101 = Infected with *Plasmodium falciparum*
-
-110 = Infected with *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
-
-111 = Mixed species infection: Infected with *Plasmodium falciparum* AND *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
+- 0 = negative
+- 1 = positive
