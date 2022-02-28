@@ -6,6 +6,8 @@
 
 You will need to access the data in this file to answer questions in section 3 of the Midterm exam
 
+This is real data from on ongoing cohort study where individuals at this study site have been sampled at 3 time points beginning in August 2021
+
 Click on the file `site_S6_malaria_data.csv` above, then click `Raw` to access the raw data file
 
 You have multiple options for accessing the data:
@@ -23,8 +25,8 @@ The data table has the following columns:
 2. `dob_yr`: Contains the year of birth
 3. `sex`: L = Lehilahy = Male (in Malagasy); V = Vehivavy = Female (in Malagasy)
 4. `age_cat`: Age group
-5. Date of clinical visit
-6. Results of malaria rapid diagnostic test (RDT) (see below)
+5. `T1_visit_date` `T2_visit_date` `T3_visit_date`: Date of clinical visit (for the 3 time points)
+6. `T1_rdt_result` `T2_rdt_result` `T3_rdt_result`: Results of malaria rapid diagnostic test (RDT) (see below)
 
 Malaria RDT results coding:
 
