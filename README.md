@@ -2,7 +2,7 @@
 
 ### Midterm exam questions
 
-#### See the data file `site_S6_malaria_data.csv`
+#### See the data file `site_S6_malaria_data.csv` above
 
 You will need to access the data in this file to answer questions in section 3 of the Midterm exam
 
@@ -29,6 +29,10 @@ The data table has the following columns:
 Malaria RDT results coding:
 
 0 = negative
+
 101 = Infected with *Plasmodium falciparum*
+
 110 = Infected with *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
+
 111 = Mixed species infection: Infected with *Plasmodium falciparum* AND *Plasmodium malariae*, *Plasmodium ovale*, or *Plasmodium vivax*
+
