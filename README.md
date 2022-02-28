@@ -46,5 +46,6 @@ The data table has the following columns:
 
 Malaria RDT results coding:
 
-- 0 = negative
-- 1 = positive
+- `0` = negative
+- `1` = positive
+- `NA` = No data because individual was not sampled
