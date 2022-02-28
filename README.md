@@ -14,12 +14,23 @@ You have multiple options for accessing the data:
 
 1. Copy and paste into excel
 
-- From your browser (after clicking `Raw`, select all the raw data, then paste into excel
+- From your browser (after clicking `Raw`), select all the raw data, then paste into excel
 - Navigate to the `Data` tab and click `Text to Columns`
 - Select `Delimited` : `Comma` : `Finish`
 
-3. Download and open with excel (In Chrome, go `File`, `Save` and add the `.csv` extension if not already there)
-4. Download and then upload to google drive and open as a google sheet
+2. Copy and paste into google sheets
+
+- From your browser (after clicking `Raw`), select all the raw data, then paste into a google sheet
+- Navigate to the `Data` tab and click `Split Text to Columns`
+
+3. Download
+
+- In Chrome (after clicking `Raw`), go to `File`, `Save Page As` and manually add the `.csv` extension to the file name
+- Alternatively, in Chrome (after clicking `Raw`), right click to `Save As` and manually add the `.csv` extension to the file name
+- In Safari (after clicking `Raw`), go to `File`, `Save As`, click `Save`, and `Append`
+
+4. The downloaded file can be opened directly in excel or you can upload to google drive and open as a google sheet
+
 5. For those familiar with R or another programming language, feel free to use
 
 #### Data notes
