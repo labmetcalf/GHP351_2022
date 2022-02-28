@@ -12,10 +12,15 @@ Click on the file `site_S6_malaria_data.csv` above, then click `Raw` to access t
 
 You have multiple options for accessing the data:
 
-1. Copy and paste into excel or google sheets
-2. Download and open with excel (In Chrome, go `File`, `Save` and add the `.csv` extension if not already there)
-3. Download and then upload to google drive and open as a google sheet
-4. For those familiar with R or another programming language, feel free to use
+1. Copy and paste into excel
+
+- From your browser (after clicking `Raw`, select all the raw data, then paste into excel
+- Navigate to the `Data` tab and click `Text to Columns`
+- Select `Delimited` : `Comma` : `Finish`
+
+3. Download and open with excel (In Chrome, go `File`, `Save` and add the `.csv` extension if not already there)
+4. Download and then upload to google drive and open as a google sheet
+5. For those familiar with R or another programming language, feel free to use
 
 #### Data notes
 
